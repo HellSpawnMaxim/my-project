@@ -1,3 +1,7 @@
 hello3
 
+<<<<<<< HEAD
 Changes
+=======
+Change
+>>>>>>> new-feature
